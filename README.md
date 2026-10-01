@@ -1,60 +1,111 @@
-<!-- =============================== -->
-<!--          ARTHUR VALLADAO         -->
-<!-- =============================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:111111,100:1f1f1f&text=ARTHUR%20VALLADAO&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20•%20BACKEND%20•%20MAKER&descAlignY=58&descSize=15&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=BDBDBD&center=true&vCenter=true&width=750&lines=%3E+building+software+that+solves+real+problems.;%3E+Java+%7C+Backend+%7C+Web+%7C+Database;%3E+learning.+building.+improving.;%3E+welcome+to+my+workspace." />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/ArthurValladao">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ArthurValladao&label=PROFILE+VIEWS&style=for-the-badge&color=111111"/>
-
-</div>
-
-<br>
-
----
+# `03. FEATURED PROJECTS`
 
 <br>
 
 <table>
+
 <tr>
-<td width="55%" valign="top">
 
-## `> whoami`
+<td width="50%" valign="top">
 
-```java
-public class ArthurValladao {
+<div align="center">
 
-    private final String role =
-        "Software Developer";
+## ⚡ ODIN
 
-    private final String[] focus = {
-        "Java",
-        "Backend",
-        "Web Development",
-        "Databases",
-        "Software Architecture"
-    };
+### Personal Voice Assistant
 
-    private final boolean building = true;
+</div>
 
-    public String mission() {
-        return "Turn ideas into real solutions.";
-    }
-}
+Assistente pessoal desenvolvido em **Python** para automação do Windows através de comandos de voz.
+
+```text
+VOICE
+  ↓
+ODIN
+  ↓
+COMMAND INTERPRETER
+  ↓
+WINDOWS / SPOTIFY / AI
+```
+
+### Principais recursos
+
+- 🎙️ Reconhecimento de voz
+- 🔊 Respostas por voz
+- 🖥️ Controle do Windows
+- 🎵 Spotify API
+- 📦 Instalação via Winget
+- 🧠 IA local com Ollama
+- 🌐 Abertura de sites
+- ⚙️ Controle de aplicativos
+
+<br>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-111111?style=flat-square&logo=spotify&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows&logoColor=white)
+
+<br><br>
+
+<a href="https://github.com/ArthurValladao/Odin">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=000000">
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 🎫 AHR SOLUTIONS
+
+### Help Desk Management System
+
+</div>
+
+Sistema para gerenciamento de chamados, usuários e equipes, desenvolvido utilizando uma arquitetura integrada entre frontend, backend e banco de dados.
+
+```text
+FRONTEND
+   ↓
+BACKEND
+   ↓
+DATABASE
+```
+
+### Principais recursos
+
+- 🔐 Autenticação
+- 🎫 Gerenciamento de chamados
+- 👥 Equipes
+- 📋 Fila de atendimento
+- 💬 Comentários
+- 📊 Dashboard
+- ⚙️ Administração
+- 🗄️ Banco de dados
+
+<br>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=white)
+
+<br><br>
+
+<a href="https://github.com/ArthurValladao/AHR_Soluctions">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=000000">
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
