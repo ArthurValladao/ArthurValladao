@@ -1,93 +1,34 @@
-<h1 align="center">Olá, eu sou Arthur 👋</h1>
-
-<p align="center">
-  Desenvolvedor em formação • Java • Web • Banco de Dados • Maker
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou estudante e desenvolvedor em formação, interessado em criar projetos que resolvam problemas reais.
-
-Atualmente venho trabalhando com:
-
-- ☕ Java e Programação Orientada a Objetos
-- 🌐 HTML, CSS e JavaScript
-- 🗄️ Banco de Dados e SQL
-- ⚙️ Desenvolvimento Backend
-- 🖨️ Impressão 3D e projetos Maker
-- 🔧 Desenvolvimento de sistemas
-
----
-
-## 🚀 Tecnologias
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode" />
+# 👨‍💻 Arthur Valladao
+
+### Software Developer • Backend • Maker
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Java+Developer;Backend+Development;Web+Development;Building+real+solutions;Always+learning+something+new" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ArthurValladao&style=for-the-badge&color=111111&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 📌 Projetos
+## > Sobre mim
 
-### 🎫 AHR Solutions
+```java
+public class Arthur {
 
-Sistema de gerenciamento de chamados desenvolvido para organizar solicitações, equipes e atendimentos.
+    String nome = "Arthur Valladao";
+    String area = "Desenvolvimento de Software";
 
-**Tecnologias:**
-`Java` `HTML` `CSS` `JavaScript` `SQL`
+    String[] interesses = {
+        "Backend",
+        "Java",
+        "Web Development",
+        "Banco de Dados",
+        "Tecnologia Maker"
+    };
 
----
-
-### 📦 Sistema de Estoque
-
-Projeto desenvolvido em Java para gerenciamento de produtos e controle de estoque.
-
-Principais conceitos utilizados:
-
-- Programação Orientada a Objetos
-- ArrayList
-- Encapsulamento
-- Métodos
-- Busca de produtos
-
----
-
-### 🧰 Projetos Maker
-
-Desenvolvimento de atividades utilizando:
-
-- Impressão 3D
-- Corte a laser
-- Modelagem
-- Prototipagem
-- Integração entre tecnologia e educação
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=ArthurValladao&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurValladao&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🛠 Atualmente estudando
-
-```text
-Java
-Backend
-APIs
-Banco de Dados
-Git / GitHub
-Arquitetura de sistemas
+    String objetivo = "Transformar ideias em soluções reais.";
+}
